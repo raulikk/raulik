@@ -7,9 +7,21 @@ class Work extends Component {
     render() { 
         return (<div className="work-page">
 
+
+        
+
+        <div className='container'> 
+        
+        <h1> Page is Under Construction</h1>
+        <p> Currently working on the page</p>
+        <p> Rebranding+Upgrade</p>
             
-        <h1> Work Works</h1>
-       
+        </div> 
+      
+
+        
+
+
         </div>);
     }
 }

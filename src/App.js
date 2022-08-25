@@ -24,7 +24,6 @@ function App() {
 
           <Route index element={<Construction /> } />
           <Route path="/not-found" element={<NotFound /> } />
-
        </Route>
       
      </Routes>

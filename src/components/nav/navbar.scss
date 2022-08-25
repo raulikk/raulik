@@ -1,0 +1,30 @@
+
+.nav-bar { 
+
+    display: none; //flex;
+   
+    justify-content: space-between;
+    align-items: center;
+
+
+    .logo{
+     margin:20px;
+    width: 130px;  
+ 
+    }
+
+    nav { 
+    display: flex;
+ //   background-color: red;
+   // justify-content: space-between;
+    margin-right: 2rem; 
+    gap:1rem;
+   // position: absolute;
+   
+   }
+
+
+
+
+
+}

@@ -14,7 +14,7 @@ class Layout extends Component {
 
         return (
         <div className="App"> 
-        <h1> Layout Works</h1>
+       
         
         <Navbar />
 
@@ -27,7 +27,7 @@ class Layout extends Component {
         
 
        <span className='tags bottom-tags'>
-        &lt; /body &gt;
+        &lt;/body &gt;
             
         <br /> 
 

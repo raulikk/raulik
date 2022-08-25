@@ -8,7 +8,16 @@ class About extends Component {
     render() { 
         return (
         <div className="about-page">
+         
 
+         <div className='container'> 
+        
+        <h1> Page is Under Construction</h1>
+        <p> Currently working on the page</p>
+        <p> Rebranding+Upgrade</p>
+            
+        </div> 
+      
 
 
         </div>);

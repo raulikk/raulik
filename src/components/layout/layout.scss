@@ -1,6 +1,34 @@
 $primary-color: #181818; 
 
 
+//Gradient 
+$gradient-green:     #20ED7D; 
+$gradient-turquoise: #1DEFD6; 
+$gradient-cyan:      #20D9ED; 
+$gradient-blue1:     #3A82E5; 
+$gradient-blue2:     #5B58D9;
+$gradient-violet:    #8747C6; 
+$gradient-pink:      #E84293;
+$gradient-orange1:   #FA5443; 
+$gradient-orange2:   #F9753F; 
+$gradient-yellow:    #F4B147; 
+
+//
+$gradient-degree: 120deg; 
+
+//Gradient 
+$gradient: linear-gradient( 
+$gradient-green,$gradient-turquoise,
+$gradient-cyan, $gradient-blue1,
+$gradient-blue2,$gradient-violet,
+$gradient-pink, $gradient-orange1, 
+$gradient-orange2, $gradient-yellow ); 
+
+
+
+
+
+
 .page {
 
     width: 100%; 

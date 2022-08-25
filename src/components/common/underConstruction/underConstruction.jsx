@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import  './contact.scss'; 
+
+import './underConstruction.scss' ; 
 
 
-class Contact extends Component {
+class UnderConstruction extends Component {
     state = {  } 
     render() { 
-        return (<div className="contact-page">
+        return (<div> 
             
              
 
@@ -15,12 +16,14 @@ class Contact extends Component {
         <p> Currently working on the page</p>
         <p> Rebranding+Upgrade</p>
             
-            <div className="box"> </div>
         </div> 
       
+   
+
+
 
         </div>);
     }
 }
  
-export default Contact;
+export default UnderConstruction;
